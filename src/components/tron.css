@@ -1,0 +1,144 @@
+.banner.jsx-1114352951>div.jsx-1114352951>div.jsx-1114352951 {
+    overflow: hidden !important;
+}
+
+
+@media (max-width: 750px) {
+    .banner-box.jsx-1114352951 {
+        height: 62.13333333333333rem;
+    }
+}
+.banner-box.jsx-1114352951 {
+    height: 700px;
+}
+
+
+@media (max-width: 750px){
+    .banner-bg.jsx-1114352951 {
+        height: 100%;
+        background: url('https://tron.network/static/images/header/kv.png');
+        background-size: 100%;
+    }
+}
+.banner-bg.jsx-1114352951 {
+    width: 100%;
+    background-size: auto 100%;
+    background-position: center center;
+    position: relative;
+    height: 700px;
+}
+.banner-en-bg1.jsx-1114352951 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background: linear-gradient(to right,#430905,#0f020a);
+}
+
+.banner-bg.jsx-1114352951 {
+    width: 100%;
+    background-size: auto 100%;
+    background-position: center center;
+    position: relative;
+    height: 700px;
+}
+.banner-tron.jsx-1114352951 img.jsx-1114352951:last-child {
+    margin-left: 30px;
+}
+
+.banner-tron.jsx-1114352951 img.jsx-1114352951 {
+    height: 180px;
+}
+img {
+    vertical-align: middle;
+}
+
+.banner-tron.jsx-1114352951 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: space-around;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: space-around;
+    justify-content: space-around;
+    width: calc(100rem*(1200/1920));
+    margin: 70px auto 0;
+}
+
+.banner-tron.jsx-1114352951 img.jsx-1114352951:last-child {
+    margin-left: 30px;
+}
+.banner-tron.jsx-1114352951 img.jsx-1114352951 {
+    height: 180px;
+}
+
+@media (max-width: 750px){
+.banner-desc.jsx-1114352951 {
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px!important;
+    margin-top: 10px;
+    position: initial;
+}}
+
+.banner-desc.jsx-1114352951 {
+    position: relative;
+    z-index: 20;
+    font-family: Avenir-Heavy;
+    font-size: 50px;
+    color: #FFFFFF;
+    line-height: 60px;
+    color: #fff;
+    font-weight: normal;
+    height: 60px;
+    top: -105px;
+}
+
+
+ 
+@media (max-width: 750px){
+.maindata-desc.jsx-1114352951 {
+    padding: 2rem;
+    width: 93.33333333333333rem;
+    font-size: 3.2rem;
+}
+
+.webtrx-canvas.jsx-1114352951 {
+    display: none;
+}
+
+}
+
+.maindata-desc.jsx-1114352951 {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background: #5C0E0E;
+    font-family: PingFangSC-Medium;
+    font-size: 16px;
+    color: rgba(255,255,255,0.9);
+    width: 69.79166666666667rem;
+    padding: 0.78125rem;
+}
+
+
+audio, canvas, progress, video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+/* canvas[Attributes Style] {
+    aspect-ratio: auto 1898 / 875;
+} */
