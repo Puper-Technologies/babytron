@@ -41,7 +41,7 @@ const MyComponent = (props) => {
     <div className='flex flex-col'>
       <p>Contact Address:  <a href='https://bscscan.com/token/0xca8ba12a965099c9494e1ecc4551711a95070931'>0xCA8bA12A965099C9494E1ecc4551711a95070931</a></p>
     
-    <div className='flex item-center justify-evenly py-5'>
+    <div className='flex flex-col md:flex-row sm:mx-[2%] item-center justify-evenly py-5'>
 
       <button className='px-4 py-2 bg-violet-700 rounded-md shadow-sm active:scale-95'>
         Buy now in private sale

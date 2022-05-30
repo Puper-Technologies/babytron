@@ -12,7 +12,7 @@ const About = ()=>{
 BABYTRON has a very low tax same as TRON to buy and sell at 0.01-0.5% slippage on pancakeswap </h2>
                 </div>
             </div>
-            <div className="flex flex-row  md:grid md:grid-cols-2 md:px-[5%] md:pb-7">
+            <div className="flex md:flex-row flex-col md:grid md:grid-cols-2 md:px-[5%] md:pb-7">
             {/* left */}
             <div className='flex flex-col text-gray-100  space-y-4'>
                 {/* <p>The world’s only enterprise blockchain solution for global payments</p> */}
@@ -37,7 +37,7 @@ inspired by the success of meme coin Shiba Inu & NFT coin Decentraland(MANA), fr
             </div>
 
             {/* right */}
-            <div className='flex flex-row justify-center text-center text-gray-100 mt-3'>
+            <div className='flex flex-row mb-5 justify-center text-center text-gray-100 mt-3'>
                 {/* <img className='z-0 object-cover'  src ="about.png" 
                 /> */}
                 BABYTRON will be listing on worlds top exchanges like Binance, FTX, Coinbase, Kraken, Kucoin, Gate.io, Huobi
