@@ -15,7 +15,7 @@ function Banner(){
     
 
     return (
-        <div className="flex flex-col justify-center banner h-[100vh] bg-gradient-to-r linear">
+        <div className="flex flex-col justify-center banner h-[30vh] sm:h-[40vh] md:h-[100vh] bg-gradient-to-r linear">
 
             <RotateFramer/>
 
