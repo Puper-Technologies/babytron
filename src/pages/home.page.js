@@ -13,12 +13,12 @@ import TronClone from '../components/tron-clone.component'
 import Vanta from '../components/vanta.component'
 function Home(){
 
-    const navLink = [{label: 'HOME', href:'home'}, {label: 'ABOUT', href:'about'}, { label: 'TOKEN',href:'token' },
+    const navLink = [{label: 'HOME', href:'home'}, {label: 'SALE', href:'sale'}, { label: 'ROADMAP',href:'roadmap' },
+    {label:'ABOUT', href:'about'},
     {label:'OUR ACTIVITY', href:'activity'},
-    {label:'ROADMAP', href:'mainroad'},
-    { label: 'TEAM',href:'team'},
+   
+    { label: 'SOCIAL ACTIVITY',href:'social'},
   {label:'CONTACT', href:'contact'} ]
-
     return <div className="Home overflow-x-hidden">
                 <Header/>
                 <Vanta/>

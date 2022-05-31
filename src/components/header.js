@@ -19,11 +19,7 @@ function Header({sticky}){
         }
     },[setShow])
 
-    const navLink = [{label: 'HOME', href:'home'}, {label: 'ABOUT', href:'about'}, { label: 'TOKEN',href:'token' },
-    {label:'OUR ACTIVITY', href:'activity'},
-    {label:'ROADMAP', href:'mainroad'},
-    { label: 'TEAM',href:'team'},
-  {label:'CONTACT', href:'contact'} ]
+
 
 
     return (
@@ -32,11 +28,12 @@ function Header({sticky}){
             {/* <div className='items px-5 py-2 flex'>  */}
 
             <div className="left-item flex-1 flex flex-row space-x-4 ">
-                <p className='cursor-pointer'>Ecosystem</p>
-                <p className='cursor-pointer'>Token</p>
-                <p className='cursor-pointer'>Developer</p>
-                <p className='cursor-pointer'>Resources</p>
-                <p className='cursor-pointer'>About</p>
+                <a href='#home'><p className='cursor-pointer'>HOME</p></a>
+                <a href="#sale"><p className='cursor-pointer'>SALE</p></a>
+                <a href="#roadmap"><p className='cursor-pointer'>ROADMAP</p></a>
+                <a href="#about"><p className='cursor-pointer'>ABOUT</p></a>
+                <a href="#social"><p className='cursor-pointer'>SOCIAL ACTIVITY</p></a>
+                <a href="#contact"><p className='cursor-pointer'>CONTACT</p></a>
             </div>
             <div className="right-item">
                 EN

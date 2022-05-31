@@ -4,7 +4,7 @@
 
 import EmailIcon from '@mui/icons-material/Email';
 const Footer = () =>{
-    return <footer className = "bg-[#0b0c22] ">
+    return <footer id='contact' className = "bg-[#0b0c22] ">
       <div className="">
         
           <div className="parthner flex flex-col py-4 px-[10%] space-y-4 sm:justify-center sm:items-center">
@@ -30,13 +30,13 @@ const Footer = () =>{
       <div className="flex-col border-gray-500 border-t border-b-0 border-x-0 flex md:flex-row text-[#999] text-sm items-center w-full py-4 px-2">
        
         <div className=" col-md-6 w-[50%] flex justify-center items-center py-2 px-2">
-          <p className="">Copyright © 2022 | BabyTron. |  All Rights Reserved. | babytron.network | Gmail: help@babytron.network</p>
+          <p className="whitespace-nowrap">Copyright © 2022 | BABYTRON |  All Rights Reserved. | babytron.network | babytron.world | Gmail: service@babytron.world</p>
         </div>
 
           <div className="flex-col sm:flex-row space-y-2 sm:space-y-0 text-right  w-[50%] flex justify-center items-center space-x-2 py-2 px-2"> 
           {/* <a href="#.">Faqs </a>  */}
           {/* <a href="#." className="flex-nowrap">Terms &amp; Conditions </a> */}
-           <a href="mailto:help@babytron.network" className="flex-nowrap" > <EmailIcon/> Contact Us</a> </div>
+           <a href="mailto:service@babytron.world" className="flex-nowrap" > <EmailIcon/> Contact Us</a> </div>
       
       </div>
    
