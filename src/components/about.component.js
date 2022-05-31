@@ -17,7 +17,7 @@ const About = ()=>{
             <div className='flex flex-col text-gray-100  space-y-4'>
                 {/* <p>The world’s only enterprise blockchain solution for global payments</p> */}
                 <div className="space-y-2 text-base text-gray-200 px-4 py-4 flex flex-col items-start">
-                    <p className="whitespace-nowrap">Private Sale Price  0.00000000004  Date <span className="">10/06/2022</span> 01/06/2022 - Hardcap- 50 BNB only</p>
+                    <p className="whitespace-nowrap">Private Sale Price  0.00000000004  Date <span className="">01/06/2022 - 10/06/2022</span> - Hardcap- 50 BNB only</p>
                     <p className="whitespace-nowrap">Presale 1st  Price  0.00000000010  Date <span>11/06/2022 - 25/06/2022  </span> Hardcap- 500 BNB</p>
                     <p className="whitespace-nowrap">Presale Last Price  0.00000000015  Date <span>26/06/2022 - 10/07/2022 </span> Hardcap- 500 BNB</p>
                     <p className="whitespace-nowrap">Listing Price 0.00000000030  Date <span>11/07/2022</span> </p>

@@ -27,7 +27,8 @@ function Header({sticky}){
             {/* left */}
             {/* <div className='items px-5 py-2 flex'>  */}
 
-            <div className="left-item flex-1 flex flex-row space-x-4 ">
+            <div className="left-item flex-1 flex flex-row items-center space-x-4 ">
+                <img className='h-10 object-contain' src="logo.svg"/>
                 <a href='#home'><p className='cursor-pointer'>HOME</p></a>
                 <a href="#sale"><p className='cursor-pointer'>SALE</p></a>
                 <a href="#roadmap"><p className='cursor-pointer'>ROADMAP</p></a>

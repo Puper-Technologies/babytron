@@ -17,8 +17,8 @@ function SliderCircle() {
     iconStyle={{ background: '#030c21', color: 'white', borderColor:'black'}}
     icon={<StarIcon />}
   >
-    <h3 className="vertical-timeline-element-title">Concept generation, research & coin making
-92% burning of coin
+    <h3 className="vertical-timeline-element-title text-gray-200  text-left">Concept generation, research & coin making <br/>
+92% burning of coin<br/>
 Fair launch on pancakeswap</h3>
     {/* <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4> */}
     {/* <p>
@@ -35,8 +35,8 @@ Fair launch on pancakeswap</h3>
     
     
   >
-    <h3 className="vertical-timeline-element-title">Listings on top exchanges back to back
-Marketing & Binance listings
+    <h3 className="vertical-timeline-element-title text-gray-200 text-left">Listings on top exchanges back to back<br/>
+Marketing & Binance listings<br/>
 NFTs & metaverse projects</h3>
     {/* <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
     <p>
@@ -53,8 +53,8 @@ NFTs & metaverse projects</h3>
     icon={<StarIcon />}
     
   >
-    <h3 className="vertical-timeline-element-title">Contraction migration & AI projects
-Own mainnet & ecosystem
+    <h3 className="vertical-timeline-element-title text-gray-200 text-left">Contraction migration & AI projects<br/>
+Own mainnet & ecosystem<br/>
 Smart contracts</h3>
     {/* <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
     <p>
@@ -70,8 +70,8 @@ Smart contracts</h3>
     iconStyle={{ background: '#030c21', color: 'white', borderColor:'black'}}
     icon={<StarIcon />}
   >
-    <h3 className="vertical-timeline-element-title">BABYTRON Exchange
-BABYTRON payments systems
+    <h3 className="vertical-timeline-element-title text-gray-200 text-left">BABYTRON Exchange<br/>
+BABYTRON payments systems<br/>
 Visit whitepaper for more details</h3>
     {/* <h4 className="vertical-timeline-element-subtitle">Miami, FL</h4>
     <p>
